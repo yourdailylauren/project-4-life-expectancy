@@ -17,7 +17,9 @@ Data Resources:
 We are trying to learn if the life expectency rate increases based on a few key details:
 - If income influences the life expectency
 - If education influences the life expectency
+    - do they have a bachelor degree or not?
 - If race influences the life expectency
+- If population density impacts life expentency? 
 
 Steps:
 - Find data - Lauren
