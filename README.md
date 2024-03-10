@@ -32,3 +32,4 @@ Steps:
 - Create slide deck to walk through process + results - All team, divide up slides
 
 - Presentation: https://docs.google.com/presentation/d/1NaJ1nFheCKZyJWs8qn0Q78x6HNBJvasiSKRcSwz-8k4/edit#slide=id.g1f3aee39af7_0_150
+- Tbleau visualization: https://public.tableau.com/app/profile/liana.hamacher/viz/LifeExpectancy_17101050462560/Dashboard1
